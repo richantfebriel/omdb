@@ -2,7 +2,7 @@
 
 just an website that can access the api of movie website, that i used from https://www.omdbapi.com/
 
-here i learn to fetch data from javascript
+here i learn to fetch data from javascript, used dom, and try callback function
 
 try here: https://richantfebriel.github.io/omdb/
 
